@@ -1,1 +1,19 @@
-test json
+{
+   "isRedirect": false,
+   "message": "this is message",
+   "redirectUrl" : "https://playstore.com"
+   "moreApps": [
+      {
+         "title": "iklan 1",
+         "description": "deskripsi iklan 1",
+         "thumb": "https://github.com/ViralHud/GB4/raw/master/R0M/002.jpg",
+         "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone"
+      },
+      {
+         "title": "iklan 2",
+         "description": "deskripsi iklan 2",
+         "thumb": "https://github.com/ViralHud/GB4/raw/master/R0M/003.jpg",
+         "url": "https://play.google.com/store/apps/details?id=com.biglime.cookingmadness"
+      }
+   ]
+}
