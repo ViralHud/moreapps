@@ -1,7 +1,7 @@
 {
    "isRedirect": false,
    "message": "this is message",
-   "redirectUrl" : "https://playstore.com"
+   "redirectUrl": "https://playstore.com"
    "moreApps": [
       {
          "title": "iklan 1",
