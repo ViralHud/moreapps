@@ -1,0 +1,61 @@
+{
+  "Iklan": [
+    {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=com.indowuxia.novelwuxiabahasaindonesia",
+      "appid": "pub-3940256099942544",
+      "admobappid": "ca-app-pub-3940256099942544~3347511713",
+      "bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "interid": "ca-app-pub-3940256099942544/1033173712",
+      "nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "deskripsi_update": "Ada perbaikan bug di versi ini. Segera update dengan versi terbaru",
+      "link_update": "https://play.google.com/store/apps/details?id=com.indowuxia.novelwuxiabahasaindonesia",
+      "publisher_link": "http://play.google.com/store/search?q=Indo%20Wuxia&c=apps",
+      "interval": 1,
+      "pengaturan_iklan": "1",
+      "startappid": "204815399",
+      "version_app": 10,
+      "fan_test_mode": false,
+      "fan_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_inter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_banner_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "disable_ads": "0",
+      "admob_hpk1": "insurance",
+      "admob_hpk2": "loans",
+      "admob_hpk3": "mortgage",
+      "admob_hpk4": "attorney",
+      "admob_hpk5": "lawyer",
+      "show_marquee": "1",
+      "text_marquee": "INFO: Akan ada maintenence server. Maaf apabila aplikasi mengalami error",
+      "info_show": "0",
+      "info_avatar_link": "https://bacanovel.id/avatar/eggy-avatar.jpg",
+      "info_title": "Martial God Asura",
+      "info_pesan": "Update chapter 4803 - 4809",
+      "info_link": "https://bacanovel.id/martial-god-asura/martial-god-asura-chapter-4803/",
+      "novel_baru_show": "0",
+      "novel_baru_cover": "https://bacanovel.id/avatar/notif_migrasi_2.jpg",
+      "novel_baru_link": "",
+      "show_slider": "1",
+	  "slider_content": [
+		  {
+			  "img": "https://hisyam.me/testing/btth-1.jpg",
+			  "title": "Battle Through the Heavens 1",
+			  "caption": "Xio Yan &amp; Yu Zhi",
+			  "url": "https://bacanovel.id/battle-through-the-heavens/"
+		  },
+		  {
+			  "img": "https://hisyam.me/testing/btth-2.jpg",
+			  "title": "Battle Through the Heavens 2",
+			  "caption": "Xiao Xun Er",
+			  "url": "https://bacanovel.id/ancient-godly-monarch/"
+		  },
+		  {
+			  "img": "https://hisyam.me/testing/btth-3.jpg",
+			  "title": "Battle Through the Heavens 3",
+			  "caption": "Cai Lin",
+			  "url": "https://bacanovel.id/ancient-strengthening-technique/"
+		  }
+	  ]
+    }
+  ]
+}
